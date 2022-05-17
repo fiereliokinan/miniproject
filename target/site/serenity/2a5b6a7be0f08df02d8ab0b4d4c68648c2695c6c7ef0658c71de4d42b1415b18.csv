@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Auth","Failed login","ERROR","2022-05-17T20:10:08.0936687+07:00[Asia/Jakarta]","0.0","0.49"
+"Auth","Register account","ERROR","2022-05-17T20:10:08.6069463+07:00[Asia/Jakarta]","0.0","0.61"
+"Order","Order without login","ERROR","2022-05-17T20:10:09.2413599+07:00[Asia/Jakarta]","0.0","0.65"
+"Order","Order with login","ERROR","2022-05-17T20:10:09.9025835+07:00[Asia/Jakarta]","0.0","0.52"
+"Home","As a user I have to be able to get list products","ERROR","2022-05-17T20:10:10.4367241+07:00[Asia/Jakarta]","0.0","0.47"

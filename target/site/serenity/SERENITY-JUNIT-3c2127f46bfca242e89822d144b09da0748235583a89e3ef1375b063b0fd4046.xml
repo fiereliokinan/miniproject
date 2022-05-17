@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Order" skipped="0" tests="2" time="13.71" timestamp="2022-05-17 08:47:26"><testcase name="Order without login"/><testcase name="Order with login"/></testsuite>

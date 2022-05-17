@@ -1,0 +1,10 @@
+stepdefinitions\LoginSteps.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\CategoriesPage.class
+pages\OrderPage.class
+stepdefinitions\RegistSteps.class
+CucumberTestSuite.class
+stepdefinitions\OrderSteps.class
+stepdefinitions\CategoriesStep.class
+pages\RegisPage.class
